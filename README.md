@@ -4,9 +4,9 @@ Página web desenvolvida como projeto prático de HTML5, CSS3 e JavaScript, exib
 
 ## 🔗 Acesse o projeto
 
-> **Link do GitHub Pages:** `https://<seu-usuario>.github.io/receita-bolo/`
+> **Link do GitHub Pages:** `https://souzawendel818-art.github.io/BOLO-DE-CENORA-/`
 >
-> *(substitua `<seu-usuario>` pelo seu nome de usuário do GitHub)*
+
 
 ---
 
